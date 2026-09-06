@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 
 public sealed class Plane
 {

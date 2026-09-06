@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 public sealed class NotImplementedPlaneRepository : IPlaneRepository
 {
     public Task<Plane> GetAsync(Guid flightId, CancellationToken cancellationToken) => throw new NotImplementedException();

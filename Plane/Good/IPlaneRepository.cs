@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 public interface IPlaneRepository
 {
     Task<Plane> GetAsync(Guid flightId, CancellationToken cancellationToken);

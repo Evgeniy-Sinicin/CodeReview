@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 public interface IOutbox
 {
     Task<IReadOnlyList<OutboxMessage>> GetUnpublishedAsync(CancellationToken cancellationToken);

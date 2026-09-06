@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 public sealed class NotImplementedOutbox : IOutbox
 {
     public Task<IReadOnlyList<OutboxMessage>> GetUnpublishedAsync(CancellationToken cancellationToken) => throw new NotImplementedException();

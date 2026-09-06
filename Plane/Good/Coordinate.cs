@@ -1,4 +1,4 @@
-namespace CodeReview.Good;
+namespace CodeReview.Plane.Good;
 public sealed record Coordinate
 {
     public Coordinate(decimal latitude, decimal longitude)

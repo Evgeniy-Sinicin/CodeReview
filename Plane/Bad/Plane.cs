@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System.Collections.Concurrent;
 
-namespace CodeReview.Bad;
+namespace CodeReview.Plane.Bad;
 
 public class Plane
 {
