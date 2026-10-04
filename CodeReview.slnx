@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Async1/Async1.csproj" Id="fdfb75c6-6226-49cc-93b6-82197c70b307" />
+  <Project Path="Async2/Async2.csproj" Id="6a6fcce0-1cf1-4541-84e5-3852bec0ee74" />
   <Project Path="Closure/Closure.csproj" Id="effbec93-1609-471c-b3d5-380442c7aeb6" />
   <Project Path="FooBar/FooBar.csproj" Id="dec97bea-77e6-4ed4-8b50-da13060d07d0" />
   <Project Path="Plane\Plane.csproj" />
